@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\noopa\\Downloads\\MNIST Visualization using Tensorboard/mnist/log-1\\images.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\noopa\\Downloads\\MNIST Visualization using Tensorboard/mnist/log-1\\images.ckpt"
